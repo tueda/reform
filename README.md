@@ -1,6 +1,8 @@
 reFORM
 ---------
 
+[![Build Status](https://travis-ci.org/benruijl/reform.svg?branch=master)](https://travis-ci.org/benruijl/reform)
+
 reFORM is a symbolic manipulation toolkit which aims to handle expressions with billions
 of terms, taking up terabytes of diskspace. In the future, it may be an alternative to [FORM](https://github.com/vermaseren/form).
 
